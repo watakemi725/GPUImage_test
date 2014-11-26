@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		46F712511A13540900273924 /* CGWVideoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 46F712501A13540900273924 /* CGWVideoViewController.m */; };
+		B52D4DA21A1081290000339A /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = B52D4DA11A1081290000339A /* Podfile */; };
 		B5BDA4CF1A107E2800B2662B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B5BDA4CE1A107E2800B2662B /* Foundation.framework */; };
 		B5BDA4D11A107E2800B2662B /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B5BDA4D01A107E2800B2662B /* CoreGraphics.framework */; };
 		B5BDA4D31A107E2800B2662B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B5BDA4D21A107E2800B2662B /* UIKit.framework */; };
@@ -21,6 +23,9 @@
 		B5BDA4F01A107E2800B2662B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B5BDA4D21A107E2800B2662B /* UIKit.framework */; };
 		B5BDA4F81A107E2800B2662B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B5BDA4F61A107E2800B2662B /* InfoPlist.strings */; };
 		B5BDA4FA1A107E2800B2662B /* Camera_gpuwatanuki2Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = B5BDA4F91A107E2800B2662B /* Camera_gpuwatanuki2Tests.m */; };
+		B5D5B0FA1A1082B900CEBB3F /* 954690_718052348278316_5391308107826475792_n.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B5D5B0F91A1082B900CEBB3F /* 954690_718052348278316_5391308107826475792_n.jpg */; };
+		B5FEF0441A108BCD00913F23 /* CGWSecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B5FEF0431A108BCD00913F23 /* CGWSecondViewController.m */; };
+		F3B41EEC2865C80E9FBAD436 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A1FD7B4847C997EC679F5DCC /* libPods.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +39,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0206FFDE6CCD902FF553C2F6 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
+		46F7124F1A13540900273924 /* CGWVideoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CGWVideoViewController.h; sourceTree = "<group>"; };
+		46F712501A13540900273924 /* CGWVideoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CGWVideoViewController.m; sourceTree = "<group>"; };
+		4F8E3F2F067D4BD5E3467560 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+		A1FD7B4847C997EC679F5DCC /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		B52D4DA11A1081290000339A /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
 		B5BDA4CB1A107E2800B2662B /* Camera_gpuwatanuki2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Camera_gpuwatanuki2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5BDA4CE1A107E2800B2662B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B5BDA4D01A107E2800B2662B /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +64,9 @@
 		B5BDA4F51A107E2800B2662B /* Camera_gpuwatanuki2Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Camera_gpuwatanuki2Tests-Info.plist"; sourceTree = "<group>"; };
 		B5BDA4F71A107E2800B2662B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		B5BDA4F91A107E2800B2662B /* Camera_gpuwatanuki2Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Camera_gpuwatanuki2Tests.m; sourceTree = "<group>"; };
+		B5D5B0F91A1082B900CEBB3F /* 954690_718052348278316_5391308107826475792_n.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 954690_718052348278316_5391308107826475792_n.jpg; sourceTree = "<group>"; };
+		B5FEF0421A108BCD00913F23 /* CGWSecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CGWSecondViewController.h; sourceTree = "<group>"; };
+		B5FEF0431A108BCD00913F23 /* CGWSecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CGWSecondViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +77,7 @@
 				B5BDA4D11A107E2800B2662B /* CoreGraphics.framework in Frameworks */,
 				B5BDA4D31A107E2800B2662B /* UIKit.framework in Frameworks */,
 				B5BDA4CF1A107E2800B2662B /* Foundation.framework in Frameworks */,
+				F3B41EEC2865C80E9FBAD436 /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -79,6 +94,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		28F70AB0C764AEA0EB6DD33A /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				0206FFDE6CCD902FF553C2F6 /* Pods.debug.xcconfig */,
+				4F8E3F2F067D4BD5E3467560 /* Pods.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		B5BDA4C21A107E2800B2662B = {
 			isa = PBXGroup;
 			children = (
@@ -86,6 +110,7 @@
 				B5BDA4F31A107E2800B2662B /* Camera_gpuwatanuki2Tests */,
 				B5BDA4CD1A107E2800B2662B /* Frameworks */,
 				B5BDA4CC1A107E2800B2662B /* Products */,
+				28F70AB0C764AEA0EB6DD33A /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -105,6 +130,7 @@
 				B5BDA4D01A107E2800B2662B /* CoreGraphics.framework */,
 				B5BDA4D21A107E2800B2662B /* UIKit.framework */,
 				B5BDA4ED1A107E2800B2662B /* XCTest.framework */,
+				A1FD7B4847C997EC679F5DCC /* libPods.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -112,11 +138,17 @@
 		B5BDA4D41A107E2800B2662B /* Camera_gpuwatanuki2 */ = {
 			isa = PBXGroup;
 			children = (
+				B52D4DA11A1081290000339A /* Podfile */,
+				B5D5B0F91A1082B900CEBB3F /* 954690_718052348278316_5391308107826475792_n.jpg */,
 				B5BDA4DD1A107E2800B2662B /* CGWAppDelegate.h */,
 				B5BDA4DE1A107E2800B2662B /* CGWAppDelegate.m */,
 				B5BDA4E01A107E2800B2662B /* Main.storyboard */,
 				B5BDA4E31A107E2800B2662B /* CGWViewController.h */,
 				B5BDA4E41A107E2800B2662B /* CGWViewController.m */,
+				B5FEF0421A108BCD00913F23 /* CGWSecondViewController.h */,
+				B5FEF0431A108BCD00913F23 /* CGWSecondViewController.m */,
+				46F7124F1A13540900273924 /* CGWVideoViewController.h */,
+				46F712501A13540900273924 /* CGWVideoViewController.m */,
 				B5BDA4E61A107E2800B2662B /* Images.xcassets */,
 				B5BDA4D51A107E2800B2662B /* Supporting Files */,
 			);
@@ -159,9 +191,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = B5BDA4FD1A107E2800B2662B /* Build configuration list for PBXNativeTarget "Camera_gpuwatanuki2" */;
 			buildPhases = (
+				AFA6225865D93B0694D814A8 /* Check Pods Manifest.lock */,
 				B5BDA4C71A107E2800B2662B /* Sources */,
 				B5BDA4C81A107E2800B2662B /* Frameworks */,
 				B5BDA4C91A107E2800B2662B /* Resources */,
+				19D9F10F4C772E491265DF6D /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -200,6 +234,9 @@
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "___FULLUSERNAME___";
 				TargetAttributes = {
+					B5BDA4CA1A107E2800B2662B = {
+						DevelopmentTeam = WQXZ564XF2;
+					};
 					B5BDA4EB1A107E2800B2662B = {
 						TestTargetID = B5BDA4CA1A107E2800B2662B;
 					};
@@ -229,8 +266,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5D5B0FA1A1082B900CEBB3F /* 954690_718052348278316_5391308107826475792_n.jpg in Resources */,
 				B5BDA4E71A107E2800B2662B /* Images.xcassets in Resources */,
 				B5BDA4D91A107E2800B2662B /* InfoPlist.strings in Resources */,
+				B52D4DA21A1081290000339A /* Podfile in Resources */,
 				B5BDA4E21A107E2800B2662B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -245,13 +284,48 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		19D9F10F4C772E491265DF6D /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		AFA6225865D93B0694D814A8 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		B5BDA4C71A107E2800B2662B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5FEF0441A108BCD00913F23 /* CGWSecondViewController.m in Sources */,
 				B5BDA4DF1A107E2800B2662B /* CGWAppDelegate.m in Sources */,
 				B5BDA4E51A107E2800B2662B /* CGWViewController.m in Sources */,
+				46F712511A13540900273924 /* CGWVideoViewController.m in Sources */,
 				B5BDA4DB1A107E2800B2662B /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -374,26 +448,36 @@
 		};
 		B5BDA4FE1A107E2800B2662B /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0206FFDE6CCD902FF553C2F6 /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Camera_gpuwatanuki2/Camera_gpuwatanuki2-Prefix.pch";
 				INFOPLIST_FILE = "Camera_gpuwatanuki2/Camera_gpuwatanuki2-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
 		};
 		B5BDA4FF1A107E2800B2662B /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4F8E3F2F067D4BD5E3467560 /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Camera_gpuwatanuki2/Camera_gpuwatanuki2-Prefix.pch";
 				INFOPLIST_FILE = "Camera_gpuwatanuki2/Camera_gpuwatanuki2-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -457,6 +541,7 @@
 				B5BDA4FF1A107E2800B2662B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B5BDA5001A107E2800B2662B /* Build configuration list for PBXNativeTarget "Camera_gpuwatanuki2Tests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +550,7 @@
 				B5BDA5021A107E2800B2662B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
